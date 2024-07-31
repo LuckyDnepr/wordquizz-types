@@ -17,6 +17,7 @@ module.exports = {
   ignorePatterns: [
     '.eslintrc.js',
     'node_modules/*',
+    '*.js'
   ],
   rules: {
     '@typescript-eslint/interface-name-prefix': 'off',
