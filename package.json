@@ -1,5 +1,6 @@
 {
   "name": "wordsquizz-types",
+  "type": "module",
   "version": "0.0.1",
   "description": "Types for WordsQuizz project.",
   "main": "src/index.ts",
