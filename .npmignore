@@ -1,0 +1,12 @@
+node_modules
+src
+npm-debug.*
+.DS_Store
+*.jks
+todo.txt
+.vscode/*
+.idea/
+.favorites.json
+.github/*
+.husky/*
+.nvmrc
